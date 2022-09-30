@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ricardo Cabrera Puerto
-- 👀 I’m interested in backend developer
+- 👀 I’m interested in Backend JavaScript Developer
 - 🌱 I’m currently learning to programming on B7web
 - 💞️ I’m looking to work in the area and the language I like the most is Node.js
 - 📫 How to reach me: ricardocabrerapuerto@gmail.com
