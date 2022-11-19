@@ -5,7 +5,7 @@
 
 - 👀 Eu estou interessado em NodeJS, que é a versão backend do JavaScript
 
-- 🌱 Cursos que estou fazendo **Atualmente estou estudando programação na B7web e inglês na English Yourself**
+- 🌱 Cursos que estou fazendo **Atualmente estou estudando programação na B7web e inglês na English Yourself, que é do Fluency Academy**
 
 - 📫 Como chagar até mim **ricardocabrerapuerto@gmail.com**
 
