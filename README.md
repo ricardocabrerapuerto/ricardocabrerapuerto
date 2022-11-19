@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou Ricardo Cabrera Puerto</h1>
-<h3 align="center">Estudante de Progamação JavaScript backend</h3>
+<h3 align="center">Estudante de Progamação JavaScript Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardocabrerapuerto&label=Profile%20views&color=0e75b6&style=flat" alt="ricardocabrerapuerto" /> </p>
 
-- 👀 Eu estou interessado em Backend JavaScript Developer
+- 👀 Eu estou interessado em NodeJS, que é a versão backend do JavaScript
 
 - 🌱 Cursos que estou fazendo **Atualmente estou estudando programação na B7web e inglês na English Yourself**
 
